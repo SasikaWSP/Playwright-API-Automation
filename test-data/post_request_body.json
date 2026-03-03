@@ -1,0 +1,11 @@
+{
+    "firstname": "Mandy",
+    "lastname": "Rose",
+    "totalprice": 1000,
+    "depositpaid": true,
+    "bookingdates": {
+        "checkin": "2021-01-01",
+        "checkout": "2022-01-01"
+    },
+    "additionalneeds": "super bowls"
+}
